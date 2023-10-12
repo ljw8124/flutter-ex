@@ -26,3 +26,6 @@ just-in-time, ahead-of-time 방식이 있음
 
 
 임시 코딩이 필요한 경우에는, dartpad.dev 에서 작성해도 됨
+
+
+Dart 에서는 변수 타입을 지정할 때, var 로 선언하는 것이 권장되고, 타입을 지정하는 것은 class 의 property 를 작성할 때 사용하는 것을 권장함
