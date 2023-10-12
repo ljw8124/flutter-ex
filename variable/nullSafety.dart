@@ -1,7 +1,7 @@
 bool isEmpty(String string) => string.length == 0;
 
 void nullSafety() {
-  isEmpty(null); // null 이 넘어가므로 컴파일 에러
+  // isEmpty(null); // null 이 넘어가므로 컴파일 에러
 
   String? name = 'lee joungwoo';
 
