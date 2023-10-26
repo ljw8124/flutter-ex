@@ -32,3 +32,8 @@ Dart 에서는 변수 타입을 지정할 때, var 로 선언하는 것이 권�
 
 
 Dart 에서 모든 변수는 Object, function 도 object 로 취급함
+
+
+```
+$ flutter create [prj name]    # 다음 명령어로 flutter 프로젝트 생성가능
+```
