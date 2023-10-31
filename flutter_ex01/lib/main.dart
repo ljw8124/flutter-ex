@@ -101,3 +101,10 @@ class App extends StatelessWidget {
     );
   }
 }
+
+
+// 플러터 개발시 vscode 에서 있으면 좋은 setting
+// "editor.codeActionsOnSave": {
+//   "source.fixAll": true
+// },
+// "dart.previewFlutterUiGuides": true,
