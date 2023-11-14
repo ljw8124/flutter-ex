@@ -75,7 +75,7 @@ class App extends StatelessWidget {
                     fontWeight: FontWeight.w600),
               ),
               const SizedBox(
-                height: 202,
+                height: 20,
               ),
               Row(
                 children: [
