@@ -37,3 +37,11 @@ Dart 에서 모든 변수는 Object, function 도 object 로 취급함
 ```
 $ flutter create [prj name]    # 다음 명령어로 flutter 프로젝트 생성가능
 ```
+### flutter 에서의 widget
+- stateless</br>
+stateless 의 의미는 아무런 데이터를 가지고 있지 않다는 의미이다.</br>
+즉, build 를 통해 UI 를 만들어주는 것 뿐인 정적 이미지를 연상시킨다.
+
+- stateful</br>
+stateful 은 실시간 데이터 이동 등 상태를 가지고 있다는 의미이다.</br>
+따라서 데이터가 변경될 때 그 변화에 대하여 UI 에 적용하여 반영하는 것인 동적 이미지를 연상시킨다.
